@@ -9,7 +9,8 @@ http://10.10.1.2/hh?command=getAPIVersion
 
 {
 # API Version Abfragen
-		# http://172.16.200.158/ai?command=getAPIVersion
+'''
+# http://172.16.200.158/ai?command=getAPIVersion
 		# {"value":"1.7.0"}
 		# Version 1.1.0 ist die alte APIVersion
 		# Version 1.7.0 ist die neue APIVersion mit Abfrage mit hh?command=getProgram
@@ -50,7 +51,7 @@ http://10.10.1.2/hh?command=getAPIVersion
 		# partialload: true / false
 }
 
-
+'''
 https://www.loxwiki.eu/display/LOXBERRY/V-ZUG-HOME
 https://github.com/marcelzoller/loxberry-plugin-vzug
 https://github.com/loleg/v-zug-recipe-parser
